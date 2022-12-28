@@ -7,7 +7,6 @@
 }
 body, html{
 	background: pink;
-	cursor: url('cursor.png'), pointer;
 }
 .btn{
 	border: 2px solid hotpink;
@@ -19,7 +18,7 @@ body, html{
 	color: white;
 	height: 100px;
 	width: 100px;
-	cursor: url('cursor.png'), pointer;
+	cursor: pointer;
 	text-shadow: 0 0 10px white;
 	box-shadow: 6px 8px 13px 0px pink;
 }
@@ -60,7 +59,7 @@ body, html{
 	background: pink;
 	margin-top: 5px;
 	color: white;
-	cursor: url('cursor.png'), pointer;
+	cursor: pointer;
 	text-shadow: 0 0 10px hotpink;
 }
 .magaz{
